@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there 👋, I am @momoso7
+- 🌱 I’m currently pursuing a PhD in pure mathematics
+- 👀 My research interest is in the arithmetic of elliptic curves, particularly Iwasawa theory
+- 📫 How to reach me: You can email me at timotkeanu@outlook.co.id
 <!--
 **momoso7/momoso7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
